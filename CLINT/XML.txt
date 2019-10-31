@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="GB2312" standalone="yes" ?>
+<Msg Version="3.0" MsgID="25698" DVBType="CTTB" TaskType="RecordTask" Protocol="" DateTime="2018-06-11 10:20:16" SrcCode="900000X90" DstCode="140500DTMB01" SrcURL="http://192.168.1.66:8080/shanxi_monitor/xmlReceiver/upload" Priority="1">
+    <AutoRecord>
+        <Record TaskID="0" Action="Set" DeviceID="6" Freq="754000" Code="" OrgNetID="0" TsID="0" ServiceID="96" VideoPID="598" AudioPID="600" DataType="" Width="720" Height="576" Fps="25" Bps="600000" QAM="" SymbolRate="" OSDEnable="1" IndexSet="1" Step="" TDeviceID="1" CDeviceID="6" CChassisID="0" CPosition="6" CModuleID="1" CTranscode="2" TChassisID="0" TPosition="0" TDemodulate="1" ServiceType="" Encoder="2" Lifecycle="" CodingFormat="CBR" DayofWeek="" StartTime="" EndTime="" StartDateTime="" EndDateTime="" />
+    </AutoRecord>
+</Msg>

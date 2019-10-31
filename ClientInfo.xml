@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="GB2312" standalone="yes" ?>
+<clientinfo>
+	<Stationname Station ="TaiYuan" 
+			PlayAddr ="http://223.111.136.201:5058/" 
+			Stationpath ="C:\\ProgramList\\TaiYuan.json"
+			CTTBpath ="C:\\table\\cttb\\ChannelScanQuery.xml"
+			DVBCpath ="C:\\table\\dvbc\\ChannelScanQuery.xml"
+			RADIOpath ="C:\\table\\fm\\ChannelScanQuery.xml"
+			AMpath ="C:\\table\\am\\ChannelScanQuery.xml"
+			DVBSpath ="C:\\table\\dvbs\\ChannelScanQuery.xml"
+			cttbpath ="C:\\RecordList\\CTTB\\RealRecordSet.xml"
+			dvbcpath ="C:\\RecordList\\DVBC\\RealRecordSet.xml"
+			radiopath ="C:\\RecordList\\RADIO\\RealRecordSet.xml"
+			ampath ="C:\\RecordList\\AM\\RealRecordSet.xml"
+			dvbspath ="C:\\RecordList\\DVBS\\RealRecordSet.xml"/>				
+</clientinfo>
